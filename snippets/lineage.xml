@@ -26,7 +26,10 @@
     <!--<linkfile src="os_pickup.bp" dest="vendor/nxp/opensource/sn100x/Android.bp" />-->
     <!--<linkfile src="os_pickup.mk" dest="vendor/nxp/opensource/sn100x/Android.mk" />-->
   </project>
-
+  <project path="hardware/qcom-caf/sm8150/audio" name="LineageOS/android_hardware_qcom_audio" groups="qcom,msmnile" revision="lineage-19.1-caf-sm8150"  remote="lineage"/>
+  <project path="hardware/qcom-caf/sm8150/display" name="LineageOS/android_hardware_qcom_display" groups="qcom" revision="lineage-19.1-caf-sm8150" remote="lineage"/>
+  <project path="hardware/qcom-caf/sm8150/media" name="LineageOS/android_hardware_qcom_media" groups="qcom,msmnile" revision="lineage-19.1-caf-sm8150" remote="lineage"/>
+  
   <!-- Prebuilts -->
   <project path="prebuilts/extract-tools" name="android_prebuilts_extract-tools" remote="lineage" clone-depth="1" />
   <project path="prebuilts/tools-weeb" name="android_prebuilts_tools-lineage" remote="lineage" clone-depth="1" />
