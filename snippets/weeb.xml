@@ -24,6 +24,9 @@
   <!-- External -->
   <project path="external/tinycompress" name="platform_external_tinycompress" remote="weeb" />
 
+  <!-- Framework -->
+  <project path="frameworks/base" name="platform_frameworks_base" remote="weeb" />
+
   <!-- General -->
   <project path="vendor/weeb" name="platform_vendor_weeb" remote="weeb" />
   <project path="vendor/weeb-headers" name="platform_vendor_weeb-headers" remote="weeb" />
@@ -38,5 +41,8 @@
 
   <!-- Hardware -->
   <project path="hardware/libhardware" name="platform_hardware_libhardware" remote="weeb" />
+
+  <!-- System Repos -->
+  <project path="system/core" name="platform_system_core" remote="weeb" />
 
 </manifest>

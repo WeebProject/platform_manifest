@@ -50,7 +50,13 @@
   <!-- External -->
   <remove-project name="platform/external/tinycompress" />
 
+  <!-- Framework -->
+  <remove-project name="platform/frameworks/base" />
+
   <!-- Hardware -->
   <remove-project name="platform/hardware/libhardware" />
+
+   <!-- System -->
+  <remove-project name="platform/system/core" />
 
 </manifest>
