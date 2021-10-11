@@ -21,6 +21,9 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
 
+  <!-- Device -->
+  <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" remote="weeb" />
+
   <!-- External -->
   <project path="external/tinycompress" name="platform_external_tinycompress" remote="weeb" />
   <project path="external/tinyxml" name="platform_external_tinyxml" remote="weeb" />
