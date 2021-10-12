@@ -72,6 +72,12 @@
   <remove-project name="platform/hardware/qcom/sdm845/thermal" />
   <remove-project name="platform/hardware/qcom/sdm845/vr" />
 
+  <!-- Packages -->
+  <remove-project name="platform/packages/apps/Launcher3" />
+  <remove-project name="platform/packages/apps/Settings" />
+  <remove-project name="platform/packages/apps/SettingsIntelligence" />
+  <remove-project name="platform/packages/apps/ThemePicker" />
+
    <!-- System -->
   <remove-project name="platform/system/core" />
 
