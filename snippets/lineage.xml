@@ -18,7 +18,8 @@
   <!-- External -->
   <project path="external/exfatprogs" name="android_external_exfatprogs" remote="lineage" />
   <project path="external/json-c" name="android_external_json-c" remote="lineage" />
-
+  <project path="external/chromium-webview" name="android_external_chromium-webview" remote="lineage" revision="master"/>
+ 
   <!-- HALs -->
   <project path="hardware/qcom-caf/common" name="android_hardware_qcom-caf_common" remote="lineage" >
     <!-- add guard for AOSP hardware/qcom dir -->

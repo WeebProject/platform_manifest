@@ -50,6 +50,7 @@
   <!-- External -->
   <remove-project name="platform/external/tinycompress" />
   <remove-project name="platform/external/selinux" />
+  <remove-project name="platform/external/chromium-webview" />
 
   <!-- Framework -->
   <remove-project name="platform/frameworks/base" />
