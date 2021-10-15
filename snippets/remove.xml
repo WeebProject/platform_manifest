@@ -80,6 +80,9 @@
   <remove-project name="platform/packages/apps/SettingsIntelligence" />
   <remove-project name="platform/packages/apps/ThemePicker" />
 
+  <!-- Providers -->
+  <remove-project name="platform/packages/providers/DownloadProvider" />
+
    <!-- System -->
   <remove-project name="platform/system/core" />
   <remove-project name="platform/system/vold" />
