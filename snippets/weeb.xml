@@ -51,6 +51,8 @@
   <!-- System Repos -->
   <project path="system/core" name="platform_system_core" remote="weeb" />
   <project path="system/vold" name="platform_system_vold" remote="weeb" />
+  <project path="system/sepolicy" name="platform_system_sepolicy" remote="weeb" />
+
 
   <!-- Code Aurora Additions -->
   <project path="hardware/qcom-caf/msm8998/audio"   name="platform_hardware_qcom-caf_msm8998_audio" groups="qcom,qcom_audio,pdk-qcom" remote="weeb" />
