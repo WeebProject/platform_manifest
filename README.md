@@ -7,11 +7,11 @@ Initializing Repository
 
 Repo initialization:
 
-    $    repo init -u https://github.com/WeebProject/platform_manifest -b 13.0
+        repo init -u https://github.com/WeebProject/platform_manifest -b 13.0
 
 Sync repo :
 
-    $    repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
+        repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 
 
 Credits
