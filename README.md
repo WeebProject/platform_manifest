@@ -7,11 +7,11 @@ Initializing Repository
 
 Repo initialization:
 
-    $    repo init -u https://github.com/WeebProject/platform_manifest -b sushi
+        repo init -u https://github.com/WeebProject/platform_manifest -b sushi
 
 Sync repo :
 
-    $    repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
+        repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 
 
 Credits
