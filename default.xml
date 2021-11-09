@@ -1105,6 +1105,7 @@
 
   <!-- Weeb Project -->
   <include name="snippets/remove.xml" />
+  <include name="snippets/caf.xml" />
   <include name="snippets/lineage.xml" />
   <include name="snippets/weeb.xml" />
 
