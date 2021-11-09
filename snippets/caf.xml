@@ -11,4 +11,6 @@
   <project name="platform/external/ant-wireless/ant_service" path="external/ant-wireless/ant_service" remote="caf" />
   <project name="platform/external/ant-wireless/hidl" path="external/ant-wireless/hidl" remote="caf" />
 
+  <project path="vendor/qcom/opensource/audio" name="platform/vendor/qcom-opensource/audio" remote="caf" />
+
 </manifest>
