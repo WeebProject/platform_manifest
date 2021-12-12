@@ -23,6 +23,7 @@
 
   <!-- External -->
   <project path="external/tinycompress" name="platform_external_tinycompress" remote="weeb" />
+  <project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" remote="aosp" revision="refs/tags/android-11.0.0_r46" />
 
   <!-- Hardware -->
   <project path="hardware/libhardware" name="platform_hardware_libhardware" remote="weeb" />
