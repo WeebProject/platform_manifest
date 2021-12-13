@@ -85,6 +85,9 @@
   <!-- Providers -->
   <remove-project name="platform/packages/providers/DownloadProvider" />
 
+   <!-- Services -->
+  <remove-project name="platform/packages/services/Telecomm" />
+
    <!-- System -->
   <remove-project name="platform/system/core" />
   <remove-project name="platform/system/vold" />

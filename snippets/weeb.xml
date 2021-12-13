@@ -53,6 +53,9 @@
   <!-- Providers -->
   <project path="packages/providers/DownloadProvider" name="platform_packages_providers_DownloadProvider" remote="weeb" /> 
 
+  <!-- Services -->
+  <project path="packages/services/Telecomm" name="platform_packages_services_Telecomm" remote="weeb" /> 
+
   <!-- System Repos -->
   <project path="system/core" name="platform_system_core" remote="weeb" />
   <project path="system/vold" name="platform_system_vold" remote="weeb" />
