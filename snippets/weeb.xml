@@ -6,6 +6,7 @@
            fetch="https://github.com/WeebProject" />
   
   <!-- Build -->
+  <project path="art" name="platform_art" remote="weeb" />
   <project path="bionic" name="platform_bionic" remote="weeb" />
   <project path="build/make" name="platform_build" remote="weeb">
     <copyfile src="core/root.mk" dest="Makefile" />
