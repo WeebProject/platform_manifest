@@ -31,6 +31,7 @@
   <project path="external/selinux" name="platform_external_selinux" remote="weeb" />
   <project path="external/colorkt" name="platform_external_colorkt" remote="weeb" />
   <project path="external/themelib" name="platform_external_themelib" remote="weeb" />
+  <project path="external/jemalloc_new" name="platform_external_jemalloc_new" remote="weeb" />
 
   <!-- Framework -->
   <project path="frameworks/base" name="platform_frameworks_base" remote="weeb" />
