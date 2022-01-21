@@ -18,3 +18,5 @@ Credits
 -------
  * [**AOSP**](https://android.googlesource.com)
  * [**LineageOS**](https://github.com/LineageOS)
+ * [**ProtonAOSP**](https://github.com/ProtonAOSP)
+
