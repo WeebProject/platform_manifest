@@ -40,7 +40,6 @@
 
   <!-- General -->
   <project path="vendor/weeb" name="platform_vendor_weeb" remote="weeb" />
-  <project path="vendor/weebui" name="platform_vendor_weebui" remote="weeb" />
   <project path="vendor/settings" name="platform_vendor_settings" remote="weeb" />
 
   <!-- Hardware -->
