@@ -64,6 +64,7 @@
   <!-- System Repos -->
   <project path="system/core" name="platform_system_core" remote="weeb" />
   <project path="system/vold" name="platform_system_vold" remote="weeb" />
+  <project path="system/security" name="platform_system_security" remote="weeb" />
   <project path="system/sepolicy" name="platform_system_sepolicy" remote="weeb" />
 
   <!-- Code Aurora Additions -->
