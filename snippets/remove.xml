@@ -47,4 +47,7 @@
   <remove-project name="platform/build" />
   <remove-project name="platform/build/soong" />
 
+  <!-- Hardware -->
+  <remove-project name="platform/hardware/libhardware" />
+
 </manifest>
