@@ -21,6 +21,9 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
 
+  <!-- External -->
+  <project path="external/tinycompress" name="platform_external_tinycompress" remote="weeb" />
+
   <!-- Hardware -->
   <project path="hardware/libhardware" name="platform_hardware_libhardware" remote="weeb" />
 

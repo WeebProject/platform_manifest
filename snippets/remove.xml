@@ -47,6 +47,9 @@
   <remove-project name="platform/build" />
   <remove-project name="platform/build/soong" />
 
+  <!-- External -->
+  <remove-project name="platform/external/tinycompress" />
+
   <!-- Hardware -->
   <remove-project name="platform/hardware/libhardware" />
 
