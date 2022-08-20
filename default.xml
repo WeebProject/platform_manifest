@@ -1169,6 +1169,7 @@
   <!-- END open-source projects -->
 
   <!-- Weeb Project -->
+  <include name="snippets/lineage.xml" />
   <include name="snippets/weeb.xml" />
   <include name="snippets/remove.xml" />
 </manifest>
