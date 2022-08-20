@@ -1170,4 +1170,5 @@
 
   <!-- Weeb Project -->
   <include name="snippets/weeb.xml" />
+  <include name="snippets/remove.xml" />
 </manifest>
