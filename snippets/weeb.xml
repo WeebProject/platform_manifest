@@ -27,5 +27,7 @@
 
   <!-- Hardware -->
   <project path="hardware/libhardware" name="platform_hardware_libhardware" remote="weeb" />
-
+  <project path="vendor/qcom/opensource/power" name="platform_vendor_qcom_opensource_power" remote="weeb" />
+  <project path="vendor/qcom/opensource/vibrator" name="platform_vendor_qcom_opensource_vibrator" remote="weeb" />
+  <project path="hardware/qcom-caf/wlan" name="platform_hardware_qcom_wlan" remote="weeb" revision="13.0-caf" />
 </manifest>
